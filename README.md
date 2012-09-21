@@ -6,6 +6,7 @@
 
 # Task details
 Implement case class Complex(re: Double, im: Double).
+
 1. It should contain following operators: +, -, *, /, unary_+, unary_-, ^. Override toString method.
 2. Complex companion should contain I constant. And possibility to write code like Re z, Im z, Re(z), Im(z).
    Also add methods conjugation, sqrt, abs.
