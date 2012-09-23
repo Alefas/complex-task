@@ -8,9 +8,10 @@
 Implement case class Complex(re: Double, im: Double).
 
 1. It should contain following operators: +, -, *, /, unary_+, unary_-, ^. Override toString method.
-2. Complex companion should contain I constant. And possibility to write code like Re z, Im z, Re(z), Im(z).
+2. Complex companion should contain I constant. And possibility to write code like Re(z), Im(z).
    Also add methods conjugation, sqrt, abs.
 3. Add auxiliary constructor from String.
 4. It should be possible to use all operators with other numeric types on the left and on the right side.
+5. Note that for every task part you can write code with any implementation and complexity (like two sqrt values or one). All of this is up to you.
 
 
